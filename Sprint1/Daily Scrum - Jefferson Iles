@@ -1,13 +1,22 @@
 Developer team:
 
-Dev: Jeffer
+Dev: Jefferson Iles Arcos
 Fecha: 24/11/2020
 1. ¿Qué has hecho desde la última reunión?
-...
+Leí los requerimientos del proyecto expuestos en las historias de usuario del documento, 
+además de familiarizarme con el esquema a trabajar de la base de datos.
+
 2. ¿Qué harás hoy?
-...
+Crear el proyecto de Laravel y hacer las configuraciones básicas para su funcionamiento,
+como lo es por ejemplo la conexión a la base de datos.
+
 3. ¿Qué impedimentos tienes para realizar el trabajo y qué ayudas necesitas?
-...
+Al intentar crear un nuevo proyecto, me topé con un error 522 de Time-Out al solicitar el siguiente recurso:
+http://cabinet.laravel.com/latest.zip. Luego de indagar acerca de dicho error encontré que se debe a problemas
+de mi conexión a Internet, sin embargo, no hallé ninguna solución al respecto. Por esta razón, necesitaría que 
+un compañero de equipo cree el proyecto por mí y lo suba al repositorio de GitHub para así poder iniciar con el
+desarrollo.
+
 
 Fecha: 25/11/2020
 1. ¿Qué has hecho desde la última reunión?
